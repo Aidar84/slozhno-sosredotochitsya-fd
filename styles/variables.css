@@ -4,6 +4,7 @@
 */
 :root {
   --bg-image: url(../images/cover-image-dark.png);
+  --bg-color: #000028;
   --accent-color: #FF0070;
   --btn-color: #FF0070;
   --d-zone-color: #FF0070;
