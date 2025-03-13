@@ -5,9 +5,12 @@
 :root {
   --bg-image: url(../images/cover-image-dark.png);
   --accent-color: #FF0070;
+  --btn-color: #FF0070;
+  --d-zone-color: #FF0070;
   --color: #DB00FF;
   --sub-color: #000028;
+  --s-title-color: #FF0070;
   --p-color: #F1B2CE;
-  --f-family: 'IBM Plex Mono';
+  --f-family: 'IBM Plex Mono'; 
   --f-size: 18px;
 }
