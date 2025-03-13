@@ -18,7 +18,7 @@
   --sub-color: #353430;
   --s-title-color: #353430;
   --p-color: #353430;
-  --f-family: 'IBM Plex Mono'; 
+  --f-family: 'IBM Plex Mono';
   --f-size: 18px;
 }
 @media (prefers-color-scheme: light) {
@@ -32,7 +32,7 @@
     --sub-color: #353430;
     --s-title-color: #353430;
     --p-color: #353430;
-    --f-family: 'IBM Plex Mono'; 
+    --f-family: 'IBM Plex Mono';
     --f-size: 18px;
   }
 }
@@ -47,7 +47,7 @@
     --sub-color: #000028;
     --s-title-color: #FF0070;
     --p-color: #F1B2CE;
-    --f-family: 'IBM Plex Mono'; 
+    --f-family: 'IBM Plex Mono';
     --f-size: 18px;
   }
 }
